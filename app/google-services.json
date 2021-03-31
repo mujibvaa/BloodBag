@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "784734876609",
+    "project_id": "bloodbag-vaa",
+    "storage_bucket": "bloodbag-vaa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784734876609:android:23f82ddc2e85425848f540",
+        "android_client_info": {
+          "package_name": "com.techiesatelier.bloodbag"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "784734876609-bq3vthlbjfm6pjtjimi64ashimcjbk1g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfZxgLZ1L64IA6qAuunfjfmNaFeSt_SW0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "784734876609-bq3vthlbjfm6pjtjimi64ashimcjbk1g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

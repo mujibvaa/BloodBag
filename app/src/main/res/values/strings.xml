@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Blood Bag</string>
+    <string-array name="blood_groups">
+        <item>A+</item>
+        <item>A-</item>
+        <item>B+</item>
+        <item>A-</item>
+        <item>O+</item>
+        <item>O-</item>
+        <item>AB+</item>
+        <item>AB-</item>
+    </string-array>
+
+
+    <string-array name="city">
+        <item>Dhaka City</item>
+        <item>Gulshan</item>
+        <item>Uttara</item>
+        <item>Mirpur</item>
+        <item>Badda</item>
+        <item>Kushtia</item>
+        <item>Bheramara</item>
+        <item>Gazipur</item>
+        <item>Shylet</item>
+        <item>Khulna</item>
+        <item>Rajshahi</item>
+        <item>Barishal</item>
+        <item>Chittagong</item>
+
+    </string-array>
+
+
+</resources>
